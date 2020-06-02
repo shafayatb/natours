@@ -68,7 +68,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-config.env
 .env
 .env.test
 
@@ -110,3 +109,4 @@ tmp/
 temp/
 
 # End of https://www.gitignore.io/api/node
+config.env
